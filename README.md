@@ -12,3 +12,9 @@ Components of the neural network, such as neurons, connections between neurons, 
   <h2>The architecture of DEVS ANN</h2>
   <img src='https://github.com/filipbojovic/GraduateProject/blob/main/docs/network%20artchitecture.png'/>
 </div>
+
+
+<div align="center">
+  <h2>Comparison between DEVS and Tensorflow model</h2>
+  <img src='https://github.com/filipbojovic/GraduateProject/blob/main/docs/devs-vs-tensorflow.png'/>
+</div>
