@@ -5,7 +5,8 @@ Discrete Event System Specification (DEVS) is a formalism that enables modeling 
 
 Components of the neural network, such as neurons, connections between neurons, and bias neurons, are represented by atomic models, and all atomic models are connected within a coupled model, which represents the artificial neural network.
 
-<a href='https://xsy-csharp.sourceforge.net/DEVSsharp/DEVSsharpSim.pdf'>Discrete Event System formalism</a>
+<b>Timeline:</b> Feb 2021 - July 2021<br>
+<b>Technologies:</b> C#, <a href='https://xsy-csharp.sourceforge.net/DEVSsharp/DEVSsharpSim.pdf'>Discrete Event System formalism</a>
 
 <div align="center">
   <h2>The architecture of DEVS ANN</h2>
